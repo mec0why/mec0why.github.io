@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mec0why.lime",
+    "sha256_cert_fingerprints": [
+      "03:87:9E:FB:FD:AA:22:F6:F9:C2:63:66:EE:F3:84:C6:7F:6A:A7:2D:08:C6:46:AE:27:11:E7:72:A0:EC:30:18"
+    ]
+  }
+}]
